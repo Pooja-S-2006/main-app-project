@@ -1,0 +1,3 @@
+[submodule "libs/math-lib-project"]
+	path = libs/math-lib-project
+	url = https://github.com/Pooja-S-2006/math-lib-project.git
